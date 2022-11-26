@@ -15,7 +15,6 @@ body{
 }
 .wrapper{
   width: 370px;
-  height: 400px;
   margin: 85px auto 0;
 }
 .select-btn, li{
@@ -49,6 +48,9 @@ body{
 }
 .wrapper.active .content{
   display: block;
+  position: absolute;
+  width: inherit;
+  z-index: 2;
 }
 .content .search{
   position: relative;
