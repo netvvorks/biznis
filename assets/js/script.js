@@ -3,7 +3,7 @@ selectBtn = wrapper.querySelector(".select-btn"),
 searchInp = wrapper.querySelector("input"),
 options = wrapper.querySelector(".options");
 
-let trades = ["","Electrician", "HVAC", "Kitchen Tiles", "Landscaping", "Accountant", "Developer", "Enginner", "Lawyer", "Notary"];
+let trades = ["","Roofing","Electrician", "HVAC", "Kitchen Tiles", "Landscaping", "Accountant", "Developer", "Enginner", "Lawyer", "Notary"];
 
 
                  // all trades by alphabetical order
